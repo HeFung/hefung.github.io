@@ -24,12 +24,12 @@ features:
 
   - title: 前端导航
     link: https://hefung.github.io/nav/
-    details: 你还可以查看壁纸后面的故事
+    details: 收集一些日常使用的网站资源和网站社区
     linkText: 查看  
     
   - title: 我的博客
     link: https://hefung.github.io/blog/
-    details: 支持查看最近两年的壁纸
+    details: 知识是进步的阶梯，争取每天都有知识点更新。
     linkText: 查看   
 
 ---
