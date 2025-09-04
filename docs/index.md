@@ -14,7 +14,7 @@ hero:
 
     - theme: alt
       text: ❤️ 赞助
-      link: https://www.viptv.work/about/donate.html  
+      link: /donate
 
 features:
   - title: 必应壁纸
