@@ -45,6 +45,7 @@ export default defineConfig({
     root: {
       label: '简体中文',
       lang: 'Zh_CN',
+      link: '/',
     },
     en: {
       label: 'English',
