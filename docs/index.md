@@ -10,7 +10,7 @@ hero:
   actions:
     - theme: brand
       text: 我的壁纸
-      link: /bing/
+      link: https://hefung.github.io/bing/
 
     - theme: alt
       text: ❤️ 赞助
@@ -18,17 +18,17 @@ hero:
 
 features:
   - title: 必应壁纸
-    link: /bing/
+    link: https://hefung.github.io/bing/
     details: 自动获取Bing的精美图片
     linkText: 查看
 
   - title: 前端导航
-    link: /nav/
+    link: https://hefung.github.io/nav/
     details: 你还可以查看壁纸后面的故事
     linkText: 查看  
     
   - title: 我的博客
-    link: /blog/
+    link: https://hefung.github.io/blog/
     details: 支持查看最近两年的壁纸
     linkText: 查看   
 

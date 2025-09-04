@@ -1,5 +1,5 @@
 import { defineConfig } from 'vitepress'
-import sidebar from './sidebar'
+import sidebar from './archives'
 
 export default defineConfig({
   lang: 'zh-CN',
