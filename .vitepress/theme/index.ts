@@ -1,5 +1,4 @@
 import { h } from 'vue'
-
 import DefaultTheme from 'vitepress/theme'
 import { type Theme } from 'vitepress'
 
@@ -12,14 +11,11 @@ import './styles.css'
 
 export default {
   extends: DefaultTheme,
-
-  enhanceApp: ({ app, router, siteData }) => {
+  enhanceApp: ({ app }) => {
    // googleAnalytics({ id: 'G-6QN23XNMXB' })
     app.component('confetti', confetti) // 五彩纸屑
     app.component('TeamMembers', TeamMembers)
     // 路由守卫
-
-
   },
 
   Layout() {
@@ -27,10 +23,6 @@ export default {
       'aside-outline-before': () => h(ShareButton),
       'layout-top': () => h(notice),
     })
-  },
-
-  setup() {
-
   }
 
 } satisfies Theme
