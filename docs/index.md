@@ -27,9 +27,9 @@ features:
     details: 收集一些日常使用的网站资源和网站社区
     linkText: 查看  
     
-  - title: 我的博客
-    link: https://hefung.github.io/blog/
-    details: 知识是进步的阶梯，争取每天都有知识点更新。
+  - title: 下载 Windows
+    link: https://hefung.github.io/msdl/
+    details: Microsoft Software Download Listing
     linkText: 查看   
 
 ---
