@@ -14,7 +14,7 @@ hero:
 
     - theme: alt
       text: ❤️ 赞助
-      link: /donate
+      link: /en/donate
 
 features:
   - title: 必应壁纸
