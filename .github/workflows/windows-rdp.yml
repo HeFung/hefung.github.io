@@ -1,4 +1,4 @@
-name: RDP
+name: Windows VNC Server
 
 on:
   workflow_dispatch:
