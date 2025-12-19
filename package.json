@@ -1,6 +1,6 @@
 {
   "name": "hefung",
-  "version": "2.2.1",
+  "version": "3.2.1",
   "description": "记录 & 分享个人技术知识内容",
   "type": "module",
   "scripts": {
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hefung/bing.git"
+    "url": "git+https://github.com/hefung/hefung.github.io.git"
   },
   "devDependencies": {
     "canvas-confetti": "^1.9.4",
