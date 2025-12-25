@@ -1,10 +1,10 @@
-name: Windows Swerver 2025 RDP
+name: Windows Server 2025 RDP
 
 on:
   workflow_dispatch:
 
 jobs:
-  windows11-rdp:
+  windows-Server-2025-rdp:
     runs-on: 	windows-latest
     timeout-minutes: 3600
 
