@@ -1,10 +1,10 @@
-name: RDP
+name: Windows11 RDP
 
 on:
   workflow_dispatch:
 
 jobs:
-  secure-rdp:
+  windows11-rdp:
     runs-on: 	windows-11-arm
     timeout-minutes: 3600
 
