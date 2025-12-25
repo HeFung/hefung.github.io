@@ -1,11 +1,11 @@
-name: Windows11 RDP
+name: Windows Swerver 2025 RDP
 
 on:
   workflow_dispatch:
 
 jobs:
   windows11-rdp:
-    runs-on: 	windows-11-arm
+    runs-on: 	windows-latest
     timeout-minutes: 3600
 
     steps:
