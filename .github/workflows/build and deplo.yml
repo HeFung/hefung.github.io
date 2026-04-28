@@ -4,7 +4,7 @@ on:
     branches: [main]
   workflow_dispatch:  
   schedule:
-    - cron: "00 16 * * *"  
+    - cron: "0 10 */10 * *" # 每10天更新一次
 permissions:
   contents: write      
 env:
@@ -31,7 +31,7 @@ jobs:
 
       - name: Install dependencies
         run:  |
-           pnpm update
+           pnpm up
            pnpm install
 
       - name: Build project
@@ -60,11 +60,7 @@ jobs:
           git config --local user.email "28900094+github-actions[bot]@users.noreply.github.com"
           git config --local user.name "HeFung"
           git add .
-          git commit -m "bing wallpaper project Update: `TZ='Asia/Shanghai' date +'%Y-%m-%d %H:%M:%S'`"
-
-      - name: Push project 🚀
-        if: steps.verify_diff.outputs.changed == 'true'
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.PUBLISH_DOCS }}
-          branch: main 
+          if ! git diff --staged --quiet; then
+            git commit -m "Github Action Auto Updated"
+            git push
+          fi
