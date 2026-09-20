@@ -1,481 +1,480 @@
 ---
 layout: home
-title: 友情打赏    
+title: Donation
 hero:
   image: /logo.png
-  name: VIP 友情打赏  
-  text: 感谢&打赏&赞助
-  tagline: 祝你们早日升职加薪，登临人生绝颠
+  name: VIP Donation
+  text: Thanks & Donation & Sponsorship
+  tagline: Wish you get promotion and higher salary, reach the peak of life
   actions:
     - theme: alt
-      text: 🥇 国际平台
+      text: 🥇 International
       link: https://wise.com/pay/me/changfengh
     - theme: alt
-      text: 🥇 国内平台
-      link: https://afdian.com/a/viptv  
----    
+      text: 🥇 Domestic
+      link: https://afdian.com/a/viptv
+---
+
 <confetti />
 
+## Donation QR‑Codes
 
-## 赞赏码
+Below are WeChat, Alipay and QQ donation QR‑codes. You may click to zoom in. Thank you for your support!
 
-下面是微信赞赏码和支付宝收款码,您可以点击放大, 感谢您的支持!
-|微信赞赏码|支付宝赞赏码|QQ赞赏码|
-|---|---|---|
-|![微信赞赏码](/wxpay.png)|![支付宝赞赏码](/alipay.png)|![QQ赞赏码](/qqpay.png)|
+| WeChat                                 | Alipay                                  | QQ                                 |
+| -------------------------------------- | --------------------------------------- | ---------------------------------- |
+| ![WeChat Donation QR‑Code](/wxpay.png) | ![Alipay Donation QR‑Code](/alipay.png) | ![QQ Donation QR‑Code](/qqpay.png) |
 
-## 打赏记录
+## Donation Records
 
-|昵称|金额|日期|备注|
-|---|---|---|---|
-|蒟蒻|10.00|2024/10/20|Ciallo～(∠・ω< )⌒★|
-|是水槽啊|5.00|2024/11/02|群主不要再吃宠物火腿肠了,去吃泡面吧我知道错了,别禁我言了。|
-|是水槽啊|1.00|2024/11/28|疯狂星期四V老大一元买辣条|
-|嘉元|10.00|2025/1/5|做的好啊|
-|幽香乐容| 10.00 | 2025/1/30  |Ciallo～(∠・ω< )⌒★|
-|阿诺| 5.00 | 2025/4/21 |好主播|
-|灵影| 5.00 | 2025/4/29 |⊹꙳ ˶˙ᵕ˙˶ ⊹꙳|
-|**达| 3.00 | 2025/5/4 |本打赏来自支付宝,用户没有备注信息,但还是感谢您的打赏|
-|斗米仇| 5.00 | 2025/7/23 |感谢用爱发电，世界有你更美好|
-|嗯-就这次了| 1.00 | 2025/7/28 |一个很好的网站这是我微薄的支持|
+| Nickname        | Amount | Date       | Message                                                                             |
+| --------------- | ------ | ---------- | ----------------------------------------------------------------------------------- |
+| Jǔruò           | 10.00  | 2024/10/20 | Ciallo～(∠・ω< )⌒★                                                                  |
+| Shuicao_a       | 5.00   | 2024/11/02 | Admin please stop eating pet ham, go get instant noodles. I’m sorry, don’t mute me. |
+| Shuicao_a       | 1.00   | 2024/11/28 | Crazy Thursday, 1‑dollar for spicy strips.                                          |
+| Jiayuan         | 10.00  | 2025/1/5   | Great work!                                                                         |
+| Youxiang Lerong | 10.00  | 2025/1/30  | Ciallo～(∠・ω< )⌒★                                                                  |
+| Anuo            | 5.00   | 2025/4/21  | Nice streamer.                                                                      |
+| Lingying        | 5.00   | 2025/4/29  | ⊹꙳ ˶˙ᵕ˙˶ ⊹꙳                                                                         |
+| **Da            | 3.00   | 2025/5/4   | This donation is from Alipay, user left no message. Still thanks for your support.  |
+| Doumichou       | 5.00   | 2025/7/23  | Thanks for your voluntary work, the world is better with you.                       |
+| Just‑this‑time  | 1.00   | 2025/7/28  | This website is really good. This is my tiny support.                               |
 
-## 匿名记录
+## Anonymous Records
 
-:::details 2025
+:::details Year 2025
 
-- \*轶
-- \*\*剑
-- \*\*沁
-- \*\*东
-- \*猛
-- \*锐
-- \*\*全
-- \*\*洋
-- \*\*鸳
-- \*\*宾
-- \*\*炎
-- \*\*珂
-- \*\*汀（飞雪）
-- \*刚
-- \*\*里
-- \*\*辉
-- \*\*文
+- \*Yi
+- \*\*Jian
+- \*\*Qin
+- \*\*Dong
+- \*Meng
+- \*Rui
+- \*\*Quan
+- \*\*Yang
+- \*\*Yuan
+- \*\*Bin
+- \*\*Yan
+- \*\*Ke
+- \*\*Ting (Feixue)
+- \*Gang
+- \*\*Li
+- \*\*Hui
+- \*\*Wen
 - J\*i
 - R\*y
-- \*淼
-- 彩\*e
-- \*二
+- \*Miao
+- Cai\*e
+- \*Er
 - L\*o
-- \*诚
-- \*生
-- \*北
-- \*田
-- \*猫
-- \*)（三学藏）
+- \*Cheng
+- \*Sheng
+- \*Bei
+- \*Tian
+- \*Mao
+- \*) (Sanxuecang)
 - N\*a
 - -
-- \*志
-- \*\*芃
-- \*\*键
-- \*\*剑
-- \*平
-- \*务
+- \*Zhi
+- \*\*Peng
+- \*\*Jian
+- \*\*Jian
+- \*Ping
+- \*Wu
 - \*6
-- \*觉
-- \*伟
+- \*Jue
+- \*Wei
 - SprReimu
-- 快乐的老鼠宝
+- HappyRatTreasure
 - \*9G+
-- 你听
-- 老夫聊发少年狂
-- 山奈.Laurant
+- YouTing
+- OldManGoWild
+- Shanai.Laurant
 - 20180126
-- 单纯
+- SimpleSoul
 - Dnieper
 - Halo
-- 特级小白菜
-- BY 易仝
-- 煎蛋 ∠ 饭鱼
-- \*东
-- \*\*伟
-- \*浩
-- \*\*宝
-- \*\*宇
-- \*闻
-- \*\*超
-- \*\*松
-- \*和
-- \*键
-- \*健
-- \*杰
-- \*选
-- \*\*晨
-- \*\*桦
-- \*\*龙
-- \*灿
+- SuperLittleCabbage
+- BY YiTong
+- FriedEgg ∠ RiceFish
+- \*Dong
+- \*\*Wei
+- \*Hao
+- \*\*Bao
+- \*\*Yu
+- \*Wen
+- \*\*Chao
+- \*\*Song
+- \*He
+- \*Jian
+- \*Jian
+- \*Jie
+- \*Xuan
+- \*\*Chen
+- \*\*Hua
+- \*\*Long
+- \*Can
 - \*°
-- \*郭
-- \*草
+- \*Guo
+- \*Cao
 - A\*n
 - B\*w
-- \*远
+- \*Yuan
 - G\*0
-- \*计
+- \*Ji
 - h\*y
-- \*白
-- \*然
-- 猛\*X
+- \*Bai
+- \*Ran
+- Meng\*X
 - A\*e
 - w\*a
-- \*哈
-- \*苗
+- \*Ha
+- \*Miao
 - J\*y
-- \*涵
+- \*Han
 - \*9
-- \*\*森
-- \*成
-- \*\*豪
-- \*\*彬
+- \*\*Sen
+- \*Cheng
+- \*\*Hao
+- \*\*Bin
 - w\*n
-- \*橙
-- 可\*i
+- \*Cheng
+- Ke\*i
 - K\*o
 - liaomsn
 - l\*n
 - S\*i
-- \*杰
-- \*振
-- \*铭
-- \*人
-- \*邪
-- \*曦
+- \*Jie
+- \*Zhen
+- \*Ming
+- \*Ren
+- \*Xie
+- \*Xi
 - E\*e
-- \*\*天
-- \*\*文
-- \*鑫
-- \*越
-- \*洪
-- \*旭
-- \*\*坚
-- \*\*俊
+- \*\*Tian
+- \*\*Wen
+- \*Xin
+- \*Yue
+- \*Hong
+- \*Xu
+- \*\*Jian
+- \*\*Jun
 - a\*A
-- \*林
-- \*\*可
-- \*超
-- \*\*剑
-- \*宇
-- \*均
-- \*恒
-- \*舰
-- \*爸
-- \*湣
-- \*东
-- \*旋
-- \*气
-- \*尘
-- \*生
+- \*Lin
+- \*\*Ke
+- \*Chao
+- \*\*Jian
+- \*Yu
+- \*Jun
+- \*Heng
+- \*Jian
+- \*Ba
+- \*Min
+- \*Dong
+- \*Xuan
+- \*Qi
+- \*Chen
+- \*Sheng
 - J\*g
 - o\*r
-- \*辰
+- \*Chen
 - \*😂
-- \*见
-- 超高校级の錆...
-- Corner.小角...
-- 煎蛋 ∠ 饭鱼
+- \*Jian
+- SuperHighSchoolRust...
+- Corner.SmallCorner...
+- FriedEgg ∠ RiceFish
 - f\*7
 - CH
 - L& C
-- \*\*杰
-- \*通
-- \*\*奥
-- \*洋
-- \*兮
-- \*有
-- \*梦
-- \*风
-- 清者
-- 是苏清沐呀
-- \*\*鹏
-- \*\*琛
-- \*淞
-- \*\*聪
-- \*文
-- \*\*臣
-- \*\*和
-- \*\*刚
-- \*\*凯
-- \*\*亮
-- \*行
-- \*伞
-- \*了
-- \*瓜
+- \*\*Jie
+- \*Tong
+- \*\*Ao
+- \*Yang
+- \*Xi
+- \*You
+- \*Meng
+- \*Feng
+- PureHeart
+- ItSuMuQingMuYa
+- \*\*Peng
+- \*\*Chen
+- \*Song
+- \*\*Cong
+- \*Wen
+- \*\*Chen
+- \*\*He
+- \*\*Gang
+- \*\*Kai
+- \*\*Liang
+- \*Xing
+- \*San
+- \*Liao
+- \*Gua
 - z\*f
-- \*\*洋
-- \*\*铭
-- \*\*卫
-- \*\*男
+- \*\*Yang
+- \*\*Ming
+- \*\*Wei
+- \*\*Nan
 - \*🍊
 - C\*e
 - \*y
-- \*零
-- \*\*煌
-- \*\*明
-- \*\*全
-- \*\*聪
-- \*\*威
-- \*\*强
-- \*\*航
-- \*\*钰
-- \*\*龙
-- \*落
+- \*Ling
+- \*\*Huang
+- \*\*Ming
+- \*\*Quan
+- \*\*Cong
+- \*\*Wei
+- \*\*Qiang
+- \*\*Hang
+- \*\*Yu
+- \*\*Long
+- \*Luo
 - \*ง
-- \*\*凯
+- \*\*Kai
   :::
 
-:::details 2025 之前
+:::details Before 2025
 
-- \*\*鑫
-- 岛主
-- \*u（zsbai）
-- \*u（白鹭）
-- 永胜
-- \*\*阳（MFYDev）
+- \*\*Xin
+- IslandMaster
+- \*u(zsbai)
+- \*u(Egret)
+- Yongsheng
+- \*\*Yang(MFYDev)
 - HakimYu
 - Moc̶k̶i̶n̶gbird
-- \*狮
-- \*泪
-- \*米
+- \*Shi
+- \*Lei
+- \*Mi
 - A\*t
 - w\*j
-- \*雅（船长）
-- \*楠
+- \*Ya(Captain)
+- \*Nan
 - \*🌻
-- \*子
+- \*Zi
 - \*。
 - D\*e
-- \*远
-- \*\*奇
-- \*\*超
-- \*\*鑫
-- 如也。
-- \*成
+- \*Yuan
+- \*\*Qi
+- \*\*Chao
+- \*\*Xin
+- RuYe.
+- \*Cheng
 - V\*X
-- \*\*皓（吃柠檬吧）
+- \*\*Hao(LemonEater)
 - K\*C
-- 大兵小匠
+- BigSoldierCraftsman
 - LinKคิดถึง
-- 大兵小匠
-- 领\*.
-- \*坤
-- \*\*达
-- 乱乱想 ╮
-- 沉吟
+- BigSoldierCraftsman
+- Ling\*.
+- \*Kun
+- \*\*Da
+- RandomThoughts ╮
+- ChenYin
 - \*、
-- \*卓
-- 江小兑
-- \*闽
-- \*\*达
-- \*\*尉（胖衛）
-- \*\*达
-- \*\*乐
-- 起床了哥们
-- \*\*杨
-- \*\*雨（小清新）
-- \*能（矿神 spk）
-- \*香
-- \*乐
-- \*坤
+- \*Zhuo
+- JiangXiaodui
+- \*Min
+- \*\*Da
+- \*\*Wei(FatWei)
+- \*\*Da
+- \*\*Le
+- GetUpBuddy
+- \*\*Yang
+- \*\*Yu(FreshStyle)
+- \*Neng(MinerGod spk)
+- \*Xiang
+- \*Le
+- \*Kun
 - a11
-- \*香
-- 安稳
-- \*\*华
-- 叶秋
-- \*称
-- \*\*潼
-- \*\*名
-- \*欧
-- \*\*能
-- \*\*华
-- \*嗤
-- 徒花丶藀訣
-- 风\*s
-- \*\*昕
-- 我本是道
-- \*子
-- \*\*超
-- \*\*达
-- \*\*英
-- \*\*荣
-- \*\*柏
-- \*袄
+- \*Xiang
+- AnWen
+- \*\*Hua
+- YeQiu
+- \*Cheng
+- \*\*Tong
+- \*\*Ming
+- \*Ou
+- \*\*Neng
+- \*\*Hua
+- \*Chi
+- FallenFlower丶YingJue
+- Feng\*s
+- \*\*Xin
+- IAmTheDao
+- \*Zi
+- \*\*Chao
+- \*\*Da
+- \*\*Ying
+- \*\*Rong
+- \*\*Bai
+- \*Ao
 - \*η
-- \*\*柏
+- \*\*Bai
 - a\*g
 - a\*g
-- 江悦
-- \*哥
-- \*能
+- JiangYue
+- \*Ge
+- \*Neng
 - FasrDP
-- \*凯
-- 矿神 spk
-- \*\*强
-- \*\*会
-- \*\*林
-- \*震
-- \*\*莲
-- \*\*祥
-- \*\*涛
-- \*\*山
-- \*\*财
+- \*Kai
+- MinerGod spk
+- \*\*Qiang
+- \*\*Hui
+- \*\*Lin
+- \*Zhen
+- \*\*Lian
+- \*\*Xiang
+- \*\*Tao
+- \*\*Shan
+- \*\*Cai
 - -\*-
-- 高\*e
+- Gao\*e
 - ‘\*^
 - N\*e
-- \*森
-- \*\*文
-- \*奇
-- \*\*聪
-- \*鹏
-- \*丽
-- \*多
-- \*\*龙
-- \*乐
-- \*哥
-- 友\*A
+- \*Sen
+- \*\*Wen
+- \*Qi
+- \*\*Cong
+- \*Peng
+- \*Li
+- \*Duo
+- \*\*Long
+- \*Le
+- \*Ge
+- You\*A
 - -
-- \*召
-- \*\*林
-- \*\*要
+- \*Zhao
+- \*\*Lin
+- \*\*Yao
 - SF 3
-- 归
-- 废物
-- \*\*多
-- 李佑辰
-- \*菲
+- Gui
+- UselessFellow
+- \*\*Duo
+- YouChenLi
+- \*Fei
 - C\*m
-- \*乐
-- \*哥
-- \*\*波
-- \*玺
-- \*\*欧
-- \*\*霖
+- \*Le
+- \*Ge
+- \*\*Bo
+- \*Xi
+- \*\*Ou
+- \*\*Lin
 - G\*a
-- \*人
-- \*农
-- \*\*诚
-- \*\*龙
-- \*煜
-- \*\*杰
-- \*\*志
-- \*烜
-- \*阳
-- \*\*操
-- 哆\*）
-- \*毅
-- \*峰
-- \*地
-- \*浪
-- \*扬
+- \*Ren
+- \*Nong
+- \*\*Cheng
+- \*\*Long
+- \*Yu
+- \*\*Jie
+- \*\*Zhi
+- \*Xuan
+- \*Yang
+- \*\*Cao
+- Duo\*)
+- \*Yi
+- \*Feng
+- \*Di
+- \*Lang
+- \*Yang
 - H\*！
-- 元\*\_
-- \*鸟
-- \*\*冉
-- 翼支付用户
-- \*涛
-- \*晨
+- Yuan\*\_
+- \*Niao
+- \*\*Ran
+- E‑WalletUser
+- \*Tao
+- \*Chen
 - L\*W
-- \*路
-- \*裕
-- \*竹
+- \*Lu
+- \*Yu
+- \*Zhu
 - p\*e
-- \*荣
-- \*路
+- \*Rong
+- \*Lu
 - nilaoda
 - spirit
-- \*\*杨
-- \*\*昊
-- \*\*克
-- \*\*生
-- \*\*闽
-- \*\*斌
-- \*取
+- \*\*Yang
+- \*\*Hao
+- \*\*Ke
+- \*\*Sheng
+- \*\*Min
+- \*\*Bin
+- \*Qu
 - \*2
-- \*涅
+- \*Nie
 - c\*e
-- \*参
-- \*羽
+- \*Can
+- \*Yu
 - M\*d
 - MC
 - Mrered
-- \*叶
-- \*\*才
-- \*\*强
-- \*枢
-- \*\*娜
-- \*\*宝
-- \*\*超
-- \*路
-- \*泉
-- \*\*雨
-- \*\*国
-- \*声
+- \*Ye
+- \*\*Cai
+- \*\*Qiang
+- \*Shu
+- \*\*Na
+- \*\*Bao
+- \*\*Chao
+- \*Lu
+- \*Quan
+- \*\*Yu
+- \*\*Guo
+- \*Sheng
 - J\*a
 - Y\*y
-- \*計
+- \*Ji
 - t\*t
-- 哆\*)
+- Duo\*)
 - S\*！
-- \*岩
-- \*落
-- \*彬
+- \*Yan
+- \*Luo
+- \*Bin
 - -
 - RHETOR
-- 蜗牛
+- Snail
 - Onlooker
-- 煎蛋 ∠ 饭鱼
-- \*\*军
-- \*\*盈
-- \*\*蕾
-- \*江
-- \*\*彬
-- \*琦
-- \*\*良
-- \*申
-- \*\*轩
-- \*\*楷
-- \*\*东
-- \*\*虎
+- FriedEgg ∠ RiceFish
+- \*\*Jun
+- \*\*Ying
+- \*\*Lei
+- \*Jiang
+- \*\*Bin
+- \*Qi
+- \*\*Liang
+- \*Shen
+- \*\*Xuan
+- \*\*Kai
+- \*\*Dong
+- \*\*Hu
 - M\*V
-- \*律
-- 玉\*p
-- \*熊
-- \*仔
-- \*飏
-- \*路
+- \*Lv
+- Yu\*p
+- \*Xiong
+- \*Zai
+- \*Yang
+- \*Lu
 - \*）
 - Z\*y
-- \*徒
-- \*雨
-- \*\*森
-- \*\*琛
-- \*\*阳
-- \*\*栋
-- \*瑛
-- \*\*柏
-- \*\*然
-- \*\*生
-- \*涵
-- \*堃
-- \*玮
+- \*Tu
+- \*Yu
+- \*\*Sen
+- \*\*Chen
+- \*\*Yang
+- \*\*Dong
+- \*Ying
+- \*\*Bai
+- \*\*Ran
+- \*\*Sheng
+- \*Han
+- \*Kun
+- \*Wei
 - \*🐰
-- \*\*江
-- \*\*昊
+- \*\*Jiang
+- \*\*Hao
   :::
 
-::: tip  
-
-赞赏时请您量力而行,无论多少都是对我的支持,请优先保证自己的生活质量,您可以通过赞赏码投喂我,收到的投喂会在下方的赞赏名单处公开显示金额及备注,如果您不想公开显示您的信息,可以在备注中注明"匿名"或"不公开",感谢您的支持！ ໒( ” ¤ ‿ ¤ ” )७  ！
-
+::: tip
+Please donate according to your own financial situation. Every amount means a lot to me. Please prioritize your own living expenses first.
+You can send me support via the QR‑codes above. Public records will show your donated amount and your message.
+If you wish to stay anonymous, write "anonymous" inside your donation note. Thank you very much for your support! ໒( ” ¤ ‿ ¤ ” )७ !
 :::
-
-

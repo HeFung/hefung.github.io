@@ -2,8 +2,8 @@ import { defineConfig } from 'vitepress'
 
 export default defineConfig({
   lang: 'zh-CN',
-  title: '何丰',
-  description: '何丰 - 收集精选文档博客',
+  title: '何丰的知识库',
+  description: '个人技术知识库',
   metaChunk: true,
   markdown: {
     theme: { light: 'one-light', dark: 'dracula-soft' },
@@ -45,65 +45,59 @@ export default defineConfig({
     root: {
       label: '简体中文',
       lang: 'Zh_CN',
-      link: '/',
+      dir: 'ltr',
+      title: '何丰的知识库',
+      description: '记录和分享个人技术知识',
+      themeConfig: {
+        docFooter: { prev: '上一页', next: '下一页' },
+        returnToTopLabel: '返回顶部',
+        sidebarMenuLabel: '目录',
+        lightModeSwitchTitle: '切换到浅色模式',
+        darkModeSwitchTitle: '切换到深色模式',
+        darkModeSwitchLabel: '主题模式',
+        footer: {
+          message: '收集精选文档博客 | MIT Licensed',
+          copyright: 'Copyright © 2019 - Present Mr.HeFung'
+        }
+        }
     },
     en: {
       label: 'English',
       lang: 'en',
+      dir: 'ltr',
+      title: "HeFung's Knowledge Base",
+      description: 'Personal technical knowledge base',
+
+      // 英文页面的访问路径是 /en/xxx
       link: '/en/',
-    },
+
+      themeConfig: {
+        // 英文导航栏
+        nav: [ /* 英文导航栏 */ ],
+
+        // 英文侧边栏（如果有）
+        sidebar: { /* 英文侧边栏 */ },
+
+        // 英文界面文案
+        docFooter: { prev: 'Previous', next: 'Next' },
+        returnToTopLabel: 'Back to top',
+        sidebarMenuLabel: 'Menu',
+        lightModeSwitchTitle: 'Switch to light mode',
+        darkModeSwitchTitle: 'Switch to dark mode',
+        darkModeSwitchLabel: 'Theme',
+
+        footer: {
+          message: 'Collecting curated docs & blogs | MIT Licensed',
+          copyright: 'Copyright © 2019 - Present Mr.HeFung'
+        }
+      }
+    }
   },
 
   themeConfig: {
-    logo: { src: '/logo.svg', width: 24, height: 24 },
-    outline: {
-      label: '本页目录',
-      level: [2, 3],
-    },
+    logo: { src: '/logo.svg', width: 24, height: 24 },  
     socialLinks: [
       { icon: 'github', link: 'https://github.com/Hefung/hefung.github.io' }
-    ],
-
-    search: {
-      provider: 'local',
-      options: {
-        translations: {
-          button: {
-            buttonText: '搜索',
-            buttonAriaLabel: '搜索'
-          },
-          modal: {
-            footer: {
-              selectText: '选择',
-              navigateText: '切换',
-              closeText: '关闭',
-            },
-          }
-        },
-      }
-    },
-
-    lastUpdated: {
-      text: '最后更新于',
-      formatOptions: { dateStyle: 'full', timeStyle: 'full', hourCycle: 'h24' }
-    },
-    // 文章翻页
-    docFooter: { prev: '上一页', next: '下一页' },
-
-    ///返回顶部文字修改(移动端)
-    returnToTopLabel: '返回顶部',
-
-    //侧边栏文字更改(移动端)
-    sidebarMenuLabel: '目录',
-
-    // 主题模式切换
-    lightModeSwitchTitle: '切换到浅色模式',
-    darkModeSwitchTitle: '切换到深色模式',
-    darkModeSwitchLabel: '主题模式',
-    
-    footer: {
-      message: '收集精选文档博客| MIT Licensed',
-      copyright: 'Copyright © 2019 - Present Mr.HeFung'
-    }
+    ],    
   }
 })
