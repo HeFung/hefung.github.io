@@ -17,15 +17,27 @@ hero:
 features:
   - title: Bing Wallpapers
     link: https://hefung.github.io/bing/
-    details: Automatically fetch beautiful Bing daily images
+    details: Automatically fetch beautiful Bing images
     linkText: View
-  - title: Front‑end Navigation
+  - title: Frontend Navigation
     link: https://hefung.github.io/nav/
-    details: Collection of commonly‑used websites and developer communities
+    details: A collection of commonly used website resources and communities
     linkText: View
-  - title: Windows Downloads
+  - title: Download Windows
     link: https://hefung.github.io/msdl/
     details: Microsoft Software Download Listing
+    linkText: View
+  - title: Metaphysics Library
+    link: https://hefung.github.io/xuanxue/
+    details: Classic works of traditional Chinese five arts
+    linkText: View
+  - title: Poetry Name Generator
+    link: https://hefung.github.io/qiming/
+    details: Generate names for kids using Book of Songs, Chu Ci, Tang & Song poetry
+    linkText: View
+  - title: Microsoft Activation Script
+    link: https://hefung.github.io/mas/
+    details: An open-source Windows & Office activator, supporting HWID, ohook, tsforge, online KMS methods, with advanced troubleshooting capabilities.
     linkText: View
 ---
 
