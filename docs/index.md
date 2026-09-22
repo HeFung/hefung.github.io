@@ -39,10 +39,10 @@ features:
 
   - title: 诗文起名
     link: https://hefung.github.io/qiming/
-    details: 古诗文起名: 利用诗经 楚辞 唐诗 宋词等给小朋友起名字
+    details: 利用诗经 楚辞 唐诗 宋词等给小朋友起名字
     linkText: 查看
 
-  - title: Microsoft 激活脚本 
+  - title: Microsoft 激活脚本
     link: https://hefung.github.io/mas/
     details: 一款开源的Windows和Office激活器，支持HWID、Ohook、TSforge和Online KMS激活方法，并具备高级故障排除功能。
     linkText: 查看
