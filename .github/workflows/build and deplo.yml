@@ -2,11 +2,11 @@ name: Build And Deploy
 on:
   push:
     branches: [main]
-  workflow_dispatch:  
+  workflow_dispatch:
   schedule:
     - cron: "0 10 */10 * *" # 每10天更新一次
 permissions:
-  contents: write      
+  contents: write
 env:
   TZ: Asia/Shanghai
 jobs:
@@ -15,7 +15,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v6 
+        uses: actions/checkout@v6
 
       - name: Set pnpm
         uses: pnpm/action-setup@v4
@@ -30,21 +30,21 @@ jobs:
           cache: pnpm
 
       - name: Install dependencies
-        run:  |
-           pnpm up
-           pnpm install
+        run: |
+          pnpm up
+          pnpm install
 
       - name: Build project
         env:
           NODE_OPTIONS: --max_old_space_size=8192
         run: |
-          pnpm run build 
-          
+          pnpm run build
+
       - name: Check if there are any changes
         id: verify_diff
         run: |
-          git diff --quiet . || echo "changed=true" >> $GITHUB_OUTPUT 
-          
+          git diff --quiet . || echo "changed=true" >> $GITHUB_OUTPUT
+
       - name: Deploy to hefung/hefung.github.io
         uses: JamesIves/github-pages-deploy-action@v4
         with:
@@ -52,15 +52,15 @@ jobs:
           branch: gh-pages
           folder: ./.vitepress/dist
           token: ${{ secrets.PUBLISH_DOCS }}
-          single-commit: true  
-      
+          single-commit: true
+
       - name: Commit project 🐱‍🏍
         if: steps.verify_diff.outputs.changed == 'true'
-        run: | 
+        run: |
           git config --local user.email "28900094+github-actions[bot]@users.noreply.github.com"
           git config --local user.name "HeFung"
           git add .
           if ! git diff --staged --quiet; then
             git commit -m "Github Action Auto Updated"
-            git push
+            git push --set-upstream origin main
           fi
